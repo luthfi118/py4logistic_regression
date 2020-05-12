@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="py4logistic_regression",
-    version="0.0.1",
+    version="0.0.2",
     author="Mgs. M. Luthfi Ramadhan",
     author_email="luthfir96@gmail.com",
     description="Logistic Regression Python Library",
@@ -19,8 +19,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-          'numpy',
-          'math'
+          'numpy'
       ],
     python_requires='>=3.7'
 )

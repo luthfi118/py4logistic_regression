@@ -8,7 +8,7 @@ This project is simply implementation of logistic regression algorithm in python
 
 ### Prerequisites
 
-Numpy & Math
+Numpy
 
 
 ### Installing
