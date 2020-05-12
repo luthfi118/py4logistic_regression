@@ -1,4 +1,4 @@
-# py4logistic_regression
+# py4logistic-regression
 
 Logistic Regression Python Library
 
@@ -13,10 +13,10 @@ Numpy
 
 ### Installing
 
-The easiest way to install py4logistic_regression is using pip
+The easiest way to install py4logistic-regression is using pip
 
 ```
-pip install py4logistic_regression
+pip install py4logistic-regression
 ```
 
 ### Usage
